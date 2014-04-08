@@ -1,0 +1,7 @@
+class Gallery {
+  
+}
+
+class GalleryItem {
+  
+}

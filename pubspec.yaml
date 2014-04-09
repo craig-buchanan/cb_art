@@ -1,2 +1,4 @@
 name: cb_art
 author: Craig Buchanan
+dependencies:
+  sqljocky: any

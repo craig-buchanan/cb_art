@@ -1,0 +1,5 @@
+library news;
+
+class News {
+  
+}

@@ -1,7 +1,0 @@
-class Gallery {
-  
-}
-
-class GalleryItem {
-  
-}

@@ -1,4 +1,4 @@
-library media_gallery;
+part of cb_art;
 
 class MediaGallery implements GalleryItem{
   String _description;  
@@ -10,5 +10,5 @@ class MediaGallery implements GalleryItem{
 
 class GalleryItem {
   
-  String get description => "";
+  String get description => ""; 
 }

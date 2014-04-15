@@ -1,4 +1,4 @@
-library news;
+part of cb_art;
 
 class News {
   

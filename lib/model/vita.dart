@@ -1,5 +1,4 @@
-library vita;
-import 'package:cb_art/exhibition.dart';
+part of cb_art;
 
 class Vita {
   int get beginYear => null;
